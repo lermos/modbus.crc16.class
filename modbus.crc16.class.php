@@ -3,7 +3,7 @@ namespace Lermos\Classes\ModbusCRC16;
 
 /*
  * The Class calculates Modbus CRC16 Checksum of input ASCII string
- * and returns string in HEX format
+ * and returns HEX-formatted string
  */
 class ModbusCRC16 {
 
