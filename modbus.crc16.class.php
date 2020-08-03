@@ -1,5 +1,5 @@
 <?php
-namespace Lermos\Builder\ModbusCRC16;
+namespace Lermos\Classes\ModbusCRC16;
 
 /*
  * The Class calculates Modbus CRC16 Checksum of input ASCII string
