@@ -60,4 +60,3 @@ function clientSide(ModbusCRC16 $crc, $msg)
 echo "MODBUS CRC16 of string 'lermos':\n";
 clientSide(new ModbusCRC16, "lermos");
 
-?>
